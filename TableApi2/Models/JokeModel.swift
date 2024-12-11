@@ -11,5 +11,5 @@ struct JokeModel:Codable{
     let id:Int
     let type:String
     let setup:String
-    let punchLine:String
+    let punchline:String
 }
